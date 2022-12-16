@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@mail.com",
+    "phone": "1234567890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "NY",
+      "zip": "12345"
+    }
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane.doe@mail.com",
+    "phone": "0987654321",
+    "address": {
+      "street": "456 Main St",
+      "city": "Anytown",
+      "state": "NY",
+      "zip": "12345"
+    }
+  },
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith",
+    "phone": "1234567890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "NY",
+      "zip": "12345"
+    }
+  }
+]
